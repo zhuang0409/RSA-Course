@@ -13,6 +13,7 @@ Theoretical background
 1. Introduction to RSA
 2. Introduction to behavioral/neuroimaging experiments
 3. Introduction to computational models (DNNs)
+
 Hands-on sessions
 1. Standard whole-brain RSA
 2. Standard ROI-based RSA
