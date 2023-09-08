@@ -7,3 +7,18 @@ There are several programs that we kindly ask you to download before the course.
 2.	CoSMoMVPA ( https://www.cosmomvpa.org/download.html ) and tutorial data with AK6 data 
 3.	BrainNet Viewer ( https://www.nitrc.org/projects/bnv/ ) 
 
+Schedule:
+
+Theoretical background
+1. Introduction to RSA
+2. Introduction to behavioral/neuroimaging experiments
+3. Introduction to computational models (DNNs)
+Hands-on sessions
+1. Standard whole-brain RSA
+2. Standard ROI-based RSA
+3. Regression-based whole-brain RSA
+4. Regression-based ROI-based RSA
+5. Statistics
+6. BrainNet Viewer for brain map visualization
+
+Please be aware that some knowledge of programming in MATLAB is recommended to join the course.
